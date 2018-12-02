@@ -29,11 +29,14 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## About the application
 
-This application developed using command : npx create-react-app simple-application
-This application developed to understand :
-  1> parent and child components <br />
-  2> Event Handling 
-  3> State
-  4> Passing data from parent to child component
+This application developed using command : npx create-react-app simple-application<br />
+This application developed to understand :<br />
+<ul>
+  <ol>parent and child components</ol>
+  <ol>Event Handling</ol>
+  <ol>State</ol>
+  <ol>Passing data from parent to child component</ol>
+  <ol></ol>
+  </ul>
   
 
