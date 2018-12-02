@@ -33,9 +33,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 This application developed using command : npx create-react-app simple-application
 This application developed to understand :
-  parent and child components
-  Event Handling 
-  State
-  Passing data from parent to child component
+  #### parent and child components 
+  #### Event Handling 
+  #### State
+  #### Passing data from parent to child component
   
 
