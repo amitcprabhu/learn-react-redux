@@ -27,15 +27,13 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
 ## About the application
 
 This application developed using command : npx create-react-app simple-application
 This application developed to understand :
-  #### parent and child components 
-  #### Event Handling 
-  #### State
-  #### Passing data from parent to child component
+  1> parent and child components <br />
+  2> Event Handling 
+  3> State
+  4> Passing data from parent to child component
   
 
