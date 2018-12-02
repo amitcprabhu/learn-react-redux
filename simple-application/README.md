@@ -32,10 +32,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 This application developed using command : npx create-react-app simple-application<br />
 This application developed to understand :<br />
 <ul>
-  <ol>parent and child components</ol>
-  <ol>Event Handling</ol>
-  <ol>State</ol>
-  <ol>Passing data from parent to child component</ol>
+  <li>parent and child components</li>
+  <li>Event Handling</li>
+  <li>State</li>
+  <li>Passing data from parent to child component</li>
   <ol></ol>
   </ul>
   
