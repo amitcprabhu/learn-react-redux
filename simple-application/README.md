@@ -34,7 +34,7 @@ This application developed to understand :
 <ol>
   <li>parent and child components</li>
   <li>Event Handling</li>
-  <li>State</li>
+  <li>state and props</li>
   <li>Passing data from parent to child component</li>
   </ol>
   
