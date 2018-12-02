@@ -1,10 +1,12 @@
 import React, { Component } from 'react';
 import './App.css';
 import Menu from './menu'
+
 class App extends Component {
   state = {
     count: 0,
-    homeInfo: "This is sample application. developed using reactjs. This application is having parent child components"
+    homeInfo: "This is sample application. developed using reactjs. This application is having parent child components",
+    discription: "This information displayed on child component."
   }
 
   handleClick = () => {
@@ -16,7 +18,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Menu></Menu>
+        <Menu discription={this.state.discription}></Menu>
         <div className="text-center">
           <h5>
             {this.state.homeInfo}
@@ -24,7 +26,7 @@ class App extends Component {
           <p>
             {this.state.count}
           </p>
-          <button onClick={this.handleClick}>counter</button>
+          <button className="btn btn-default" onClick={this.handleClick}>counter</button>
 
         </div>
       </div>
