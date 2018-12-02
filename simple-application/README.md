@@ -30,7 +30,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## About the application
 
 This application developed using command : npx create-react-app simple-application<br />
-This application developed to understand :<br />
+This application developed to understand :
 <ol>
   <li>parent and child components</li>
   <li>Event Handling</li>
