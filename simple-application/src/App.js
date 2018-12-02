@@ -15,10 +15,16 @@ class App extends Component {
     });
   }
 
+  handleSelection = () => {
+    this.setState({
+      count: this.state.count + 1
+    });
+  }
+
   render() {
     return (
       <div>
-        <Menu discription={this.state.discription}></Menu>
+        <Menu discription={this.state.discription} select="this.handleSelection"></Menu>
         <div className="text-center">
           <h5>
             {this.state.homeInfo}
