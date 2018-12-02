@@ -1,0 +1,2 @@
+# learn-react-redux
+React js is basically UI web based application development tool or library developed by facebook similar to angular or backbone js. React is component based this means we need to develop component and those are integrate as per the functionality and this all components are added in one component and that finally into html page. Using react we can able to develop SPA (Single Page Allocation).
